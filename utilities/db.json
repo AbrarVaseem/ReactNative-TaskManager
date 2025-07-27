@@ -1,0 +1,222 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "Test",
+      "email": "test.user@gmail.com",
+      "password": "12345",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "username": "John",
+      "email": "john@gmail.com",
+      "password": "12345",
+      "role": "user"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Design Login UI",
+      "description": "Create a responsive dark-themed login screen.",
+    "status": "Rejected",
+      "due_date": "2025-09-18T00:00:00.000Z",
+      "file": "",
+      "location": {
+        "latitude": 17.0077262,
+        "longitude": 81.8023446
+      },
+      "user_id": "1",
+      "id": "1"
+    },
+    {
+      "title": "Implement Search Filter",
+      "description": "Add filter functionality for product search.",
+      "status": "Approved",
+      "due_date": "2025-08-03T00:00:00.000Z",
+      "file": "",
+      "location": {
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "user_id": "1",
+      "id": "2"
+    },
+    {
+      "title": "Fix Broken Links",
+      "description": "Audit the site and fix all 404 errors.",
+      "status": "Pending",
+      "due_date": "2025-08-10",
+      "file": "",
+      "location": {
+        "latitude": 40.7128,
+        "longitude": -74.006
+      },
+      "id": "3",
+      "user_id": "2"
+    },
+    {
+      "title": "Update User Profile Page",
+      "description": "Improve layout and add avatar upload.",
+      "status": "Approved",
+      "due_date": "2025-07-15",
+      "file": "",
+      "location": {
+        "latitude": 52.52,
+        "longitude": 13.405
+      },
+      "id": "4",
+      "user_id": "3"
+    },
+    {
+      "title": "Optimize Database Queries",
+      "description": "Enhance backend performance with better indexing.",
+      "status": "Pending",
+      "due_date": "2025-08-20",
+      "file": "",
+      "location": {
+        "latitude": 19.076,
+        "longitude": 72.8777
+      },
+      "id": "5",
+      "user_id": "1"
+    },
+    {
+      "title": "Write Unit Tests",
+      "description": "Add tests for payment module.",
+      "status": "Approved",
+      "due_date": "2025-07-28",
+      "file": "",
+      "location": {
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      "id": "6",
+      "user_id": "2"
+    },
+    {
+      "title": "Redesign Home Page Banner",
+      "description": "Create a more visually appealing banner image.",
+      "status": "Pending",
+      "due_date": "2025-08-05",
+      "file": "",
+      "location": {
+        "latitude": -23.5505,
+        "longitude": -46.6333
+      },
+      "id": "7",
+      "user_id": "3"
+    },
+    {
+      "title": "Integrate Google Maps",
+      "description": "Add location tracking to service page.",
+      "status": "Rejected",
+      "due_date": "2025-08-12",
+      "file": "",
+      "location": {
+        "latitude": 35.6895,
+        "longitude": 139.6917
+      },
+      "id": "8",
+      "user_id": "1"
+    },
+    {
+      "title": "Create FAQ Section",
+      "description": "Build a collapsible FAQ using accordion.",
+      "status": "Approved",
+      "due_date": "2025-07-20",
+      "file": "",
+      "location": {
+        "latitude": 55.7558,
+        "longitude": 37.6173
+      },
+      "id": "9",
+      "user_id": "2"
+    },
+    {
+      "title": "Setup CI/CD Pipeline",
+      "description": "Automate builds and deployments on merge.",
+      "status": "Pending",
+      "due_date": "2025-08-22T00:00:00.000Z",
+      "file": "",
+      "location": {
+        "latitude": 10.8231,
+        "longitude": 106.6297
+      },
+      "user_id": "1",
+      "id": "10"
+    },
+    {
+      "title": "Create Blog Template",
+      "description": "Design reusable layout for blog posts.",
+      "status": "Rejected",
+      "due_date": "2025-08-09",
+      "file": "",
+      "location": {
+        "latitude": 31.2304,
+        "longitude": 121.4737
+      },
+      "id": "11",
+      "user_id": "1"
+    },
+    {
+      "title": "Fix Email Notification Bug",
+      "description": "Resolve delayed emails on sign-up.",
+      "status": "Approved",
+      "due_date": "2025-07-25",
+      "file": "",
+      "location": {
+        "latitude": 43.6532,
+        "longitude": -79.3832
+      },
+      "id": "12",
+      "user_id": "2"
+    },
+    {
+      "title": "Add Dark Mode Toggle",
+      "description": "Implement switch to toggle dark mode.",
+      "status": "Pending",
+      "due_date": "2025-08-07",
+      "file": "",
+      "location": {
+        "latitude": 59.3293,
+        "longitude": 18.0686
+      },
+      "id": "13",
+      "user_id": "3"
+    },
+    {
+      "title": "Review Codebase",
+      "description": "Audit code for deprecated packages.",
+      "status": "Pending",
+      "due_date": "2025-08-14",
+      "file": "",
+      "location": {
+        "latitude": 50.1109,
+        "longitude": 8.6821
+      },
+      "id": "14",
+      "user_id": "1"
+    },
+    {
+      "title": "Translate UI to Spanish",
+      "description": "Localize user interface strings to Spanish.",
+      "status": "Rejected",
+      "due_date": "2025-07-30",
+      "file": "",
+      "location": {
+        "latitude": 40.4168,
+        "longitude": -3.7038
+      },
+      "id": "15",
+      "user_id": "2"
+    }
+  ]
+}
